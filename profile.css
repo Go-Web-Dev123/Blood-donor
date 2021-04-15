@@ -1,0 +1,93 @@
+body{
+    background-color: #90d5ec;
+background-image: linear-gradient(315deg, #D6A4A4 0%, #DAE2F8 74%);
+font-weight: 600;
+}
+input{
+    border-radius: 4px;
+    border:none;
+    width:380px;
+    height:40px;
+    padding:4px;
+    margin-left: 20px;
+    caret-color: #286090;
+}
+textarea{
+    border-radius: 5px;
+    padding:10px;
+    caret-color: #286090;
+}
+select{
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    font-weight: 900;
+}
+#back{
+    float:left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#settings{
+    float: right;
+    position: relative;
+    bottom: 22;
+    right:15;
+}
+#seconddiv{
+    margin-left: 50px;
+}
+#username{
+    width: 20%;
+}
+#district{
+    width:20%;
+}
+input:focus{
+    outline:none;
+}
+select{
+    border: none;
+}
+select:focus{
+    border: none;
+    outline: none;
+}
+textarea{
+    outline: none;
+    border: none;
+}
+#texts{
+    margin-left: 30px;
+}
+#district{
+    margin-left: 30px;
+}
+#firstimg{
+    position: absolute;
+    top:10%;
+    left: 48%;
+    height: 580px;
+    width:750px;
+    border-radius: 15px;
+}
+#phoneno{
+    width:300px;
+    height:30px;
+    padding: 8px;
+    margin-left: 5px;
+}
+#seconddiv{
+    margin-left: 10px;
+    font-size: larger;
+    cursor: pointer;
+    width: 700px;
+}
+#cprofile{
+    color:#286090;
+    font-weight: 700;
+}

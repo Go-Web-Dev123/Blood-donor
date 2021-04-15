@@ -1,0 +1,42 @@
+body{
+    background-color: #90d5ec;
+background-image: linear-gradient(315deg, #D6A4A4 0%, #DAE2F8 74%);
+font-weight: 900;
+}
+#selection{
+    outline: none;
+    border: none;
+}
+#selection:hover{
+    outline: none;
+    border: none;
+}
+#submits{
+    margin-left: 50px;
+    background-color:  #286090;
+    color:white;
+    outline: none;
+    border: none;
+    width: 130px;
+    height: 35px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+#submits:hover{
+    background-color: white; 
+    color:#286090;
+    font-size: small;
+    font-weight: 700;
+}
+#firstdiv{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+#back{
+    margin: 20px;
+    text-decoration: none;
+    color:#286090 ;
+}
+#back:hover{
+    text-decoration: underline;
+}
