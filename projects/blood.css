@@ -1,0 +1,67 @@
+body{
+    background-color: #90d5ec;
+    background-image: linear-gradient(315deg, #d9a7c7 0%, #fffcdc 74%);
+    font-weight: 900;
+    font-size: larger;
+}
+#firstdiv{
+    position: absolute;
+    top: 7%;
+    left: 35%;
+}
+select{
+    height: 35px;
+    border: none;
+    border-radius: 5px;
+}
+select:focus{
+    outline: none;
+    border: none;
+}
+#selection{
+    margin-left: 30px;
+}
+#district{
+    margin-left: 18px;
+}
+#submits{
+    margin-left: 20px;
+}
+#submits:hover{
+    background-color:  white;
+    color: #2C4BC8;
+    font-weight: 600;
+    border: none;
+}
+input{
+    height: 30px;
+    width: 300px;
+    margin:10px;
+    margin-bottom: 30px;
+    padding: 10px;
+    border:none;
+    border-radius: 6px;
+}
+input:focus{
+    outline: none;
+    border:none;
+}
+#back{
+    margin: 20px;
+}
+#secondiv{
+    cursor: pointer;
+}
+#profiless{
+    float: right;
+    margin-right: 40px;
+    margin-top: -30px;
+}
+#others:hover{
+    background-color: white; 
+    color:#286090;
+}
+#otdistricts{
+    background-color: white; 
+    color:#286090;
+}

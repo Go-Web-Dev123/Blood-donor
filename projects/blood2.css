@@ -1,0 +1,56 @@
+body{
+    background-color: #90d5ec;
+background-image: linear-gradient(315deg, #D6A4A4 0%, #DAE2F8 74%);
+font-weight: 600;
+font-size: larger;
+}
+input{
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    width: 300px;
+    height:30px;
+    padding: 5px;
+    caret-color: #286090;
+}
+select{
+    border: none;
+    border-radius: 5px;
+}
+select:focus{
+    border:none;
+    outline: none;
+}
+a{
+    margin-left: 20px;
+    margin-top: 30px;
+        font-size: larger;
+        text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+#date{
+    margin-right: 40px;
+}
+#fdiv{
+    margin-top: 50px;
+    margin-left: 300px;
+}
+button{
+    margin-left: 5px;
+    color: white;
+    background-color:#286090;
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    font-size: medium;
+    font-weight: 700;
+}
+button:hover{
+    color: #286090;
+    background-color: white;
+}

@@ -1,0 +1,33 @@
+body{
+    background-image: linear-gradient(315deg, #D6A4A4 0%, #DAE2F8 74%);
+    font-weight: 800;
+}
+
+#header1{
+    float: right;
+    margin-right: 30px;
+    color: green;
+}
+#header2{
+    float: right;
+    margin-right: 30px;
+    color: red;
+}
+a{
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: larger;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+#firsth1{
+    position: absolute;
+    left: 40%;
+
+}
+.correct{
+    margin-top: 50px;
+    color:green;
+}
